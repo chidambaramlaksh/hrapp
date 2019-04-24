@@ -1,4 +1,32 @@
 {
+"leave_types": [
+  {
+    "Leave_Type_Id":1,
+    "Leave_Name":"sick"
+  },
+  {
+    "Leave_Type_Id":2,
+    "Leave_Name":"privillaged"
+  },
+  {
+    "Leave_Type_Id":3,
+    "Leave_Name":"leave of absence"
+  }
+],
+"availed_leaves":[
+  {
+    "Leave_Type_Id":1,
+    "Leave_Balance":5
+  },
+  {
+    "Leave_Type_Id":2,
+    "Leave_Balance":4
+  },
+  {
+    "Leave_Type_Id":3,
+    "Leave_Balance":3
+  } 
+],
 "items": [
 {
 "index": 1,
