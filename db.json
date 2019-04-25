@@ -15,15 +15,15 @@
 ],
 "availed_leaves":[
   {
-    "Leave_Type_Id":1,
+    "id":1,
     "Leave_Balance":5
   },
   {
-    "Leave_Type_Id":2,
+    "id":2,
     "Leave_Balance":4
   },
   {
-    "Leave_Type_Id":3,
+    "id":3,
     "Leave_Balance":3
   } 
 ]
