@@ -1,15 +1,15 @@
 {
 "leave_types": [
   {
-    "Leave_Type_Id":1,
+    "id":1,
     "Leave_Name":"sick"
   },
   {
-    "Leave_Type_Id":2,
+    "id":2,
     "Leave_Name":"privillaged"
   },
   {
-    "Leave_Type_Id":3,
+    "id":3,
     "Leave_Name":"leave of absence"
   }
 ],
